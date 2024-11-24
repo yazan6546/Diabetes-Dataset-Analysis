@@ -21,3 +21,7 @@ rad.json
 #Test results file
 TestResults.xml
 .venv
+test.sh
+public_key.asc
+private_key.asc
+sc.sh
